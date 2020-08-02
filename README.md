@@ -1,2 +1,2 @@
 # Bhartitya-Gas-Residency
-Software Engineering project on Bhartitya Gas Residency
+Documented Project of Software Engineering on Bhartitya Gas Residency.
